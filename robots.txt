@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Protein Breakfast Hub - Your Guide to High Protein Mornings_files/
+
+Sitemap: https://proteinbreakfast.site/sitemap.xml
